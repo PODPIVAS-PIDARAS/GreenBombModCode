@@ -1,0 +1,17 @@
+{
+  "Name": "GreenBombMod",
+  "Author": "Podpivas",
+  "Description": "Просто зеленая бомба?",
+  "ModVersion": "1.0.0",
+  "GameVersion": "1.25",
+  "ThumbnailPath": "bomb_icon.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "script.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3710926615",
+  "AssemblyName": null
+}
